@@ -1,6 +1,6 @@
-#upgrade-challenge
+# upgrade-challenge
 
-##Endpoints
+## Endpoints
 
 * (GET) /availability
 
@@ -44,8 +44,6 @@ The body requires the following schema:
 ``
 
 Returns the same reservation id as confirmation
-
-* Cancel Reservation
 
 * (DELETE) /reservations/:id
 
